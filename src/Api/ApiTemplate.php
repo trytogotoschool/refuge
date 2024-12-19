@@ -1,7 +1,7 @@
 <?php
  
 namespace App\Api;
-
+  
 class ApiTemplate  
 {
 
